@@ -1,5 +1,5 @@
 # TestMatching
-I organized this reposity mainly for testing our fingerprint matching algorithm
+We organized this reposity mainly for testing our fingerprint matching algorithm
 
 # Requirements 
 tensorflow 1.x
